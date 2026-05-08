@@ -1,181 +1,170 @@
-# Nguruvilu - The Chilean Fox-Snake Water Demon - **ENTRY #500!** 🎉
+# Nguruvilu
 
+> A serpentine water creature of Mapuche folklore in Chile and Argentina with a fox-like head and snake-like body, blamed for drownings in lakes, rivers, and treacherous fords.
+
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
+
+---
+## Quick Reference
+
+| Property | Value |
+|---|---|
+| **ID** | `nguruvilu` |
+| **Category** | CRYPTID |
+| **Subcategory** | Aquatic Mapuche folkloric creature |
+| **First recorded** | Pre-contact |
+| **Primary range** | Lakes, rivers, and water crossings in Mapuche cultural territory across southern Chile and southwestern Argentina |
+| **Status** | documented |
+
+---
 ## Overview
-**Nguruvilu** (also spelled **Ngurufilu**, **Guruvilu**, or **Ñuruvilu**) is a fearsome water-dwelling creature from Mapuche mythology in Chile and Argentina. Described as a bizarre chimera combining features of a fox and a snake, with a long, claw-tipped tail capable of creating deadly whirlpools, the nguruvilu is one of the most dangerous spirits in Mapuche folklore. This malevolent entity lurks in rivers, streams, and lakes, attacking people and animals who venture too close to the water's edge, dragging them beneath the surface with its powerful tail or creating vortexes that capsize boats and drown victims.
 
-**Category:** CRYPTID  
-**Danger Level:** Extreme (actively hunts humans, causes drowning deaths)  
-**Origin:** Mapuche mythology (Chile and Argentina)  
-**Active Period:** Pre-colonial times through present  
-**Status:** **THE 500TH ENTRY IN THIS COMPREHENSIVE PARANORMAL COLLECTIONall* 🎊
+The Nguruvilu is a legendary aquatic predator from Mapuche mythology of southern Chile and Argentina. Most accounts describe it as a long, serpent-bodied creature with a fox-like head and a long tail tipped with claws or a finger-like appendage; some variants describe a cat- or puma-like face. It is said to inhabit rivers, lakes, whirlpools, and the deep pools at fords, where it lures travellers by making the water at a crossing appear shallow before dragging them under to drown them. Mapuche tradition holds that only a machi (shaman) or kalku (sorcerer) is able to confront the Nguruvilu directly, and rituals involving offerings of muday (fermented wheat or maize drink) and planted spears were used to placate it. The name itself was avoided, with the circumlocution 'lord of the water' used in its place. Anthropologist Robert Lehmann-Nitsche proposed that the legend may derive from observation of the marine otter (Lontra felina) along Chilean coasts and rivers.
 
 ---
+## Names & Aliases
 
-## 🎉 MILESTONE ACHIEVEMENT 🎉
+| Name | Origin | Meaning |
+|---|---|---|
+| Guruvilu | Mapudungun (variant transliteration) |  |
+| Guirivilu | Mapudungun (variant transliteration) |  |
+| Nirivilo | Mapudungun (variant transliteration) |  |
+| Ngarrafilu | Mapudungun / Neuquén Province, Argentina (Limay River, Aluminé Lake) |  |
+| Lord of the water | English (circumlocution) | Euphemism used to avoid speaking the creature's true name |
 
-**This is Entry #500 in the Wyrdness Paranormal Phenomena Documentation Project!**
+## Etymology
 
-Starting from ancient demons to modern mysteries, from Japanese yokai to Chilean cryptids, we have now documented:
-
-✓ **500 Paranormal Phenomena**  
-✓ **Comprehensive Research**  
-✓ **50+ Sources Each**  
-✓ **Global Coverage**  
-✓ **Multiple Categories**  
-✓ **Academic Rigor**  
-✓ **Cultural Respect**  
-
-The nguruvilu—a creature bridging indigenous wisdom, environmental warning, and cryptozoological mystery—represents the perfect culmination of this massive documentation effort!
+- **Origin**: Mapudungun (language of the Mapuche of southern Chile and Argentina)
+- **Meaning**: Compound of ngürü ('fox') + filu ('snake'), literally 'fox-snake'
+- **First use**: Pre-contact Mapuche oral tradition; documented in 19th- and 20th-century ethnographies
 
 ---
+## Related Phenomena
 
+- [El Cuero (Trelquehuecuvu)](../el-cuero/) — _similar_: Mapuche cowhide-shaped water creature from the same tradition
+- [Cuchivilu](../cuchivilu/) — _similar_: Chilote pig-snake water creature of southern Chilean folklore
+- [Ahuizotl](../ahuizotl/) — _similar_: Aztec aquatic creature said to drown bathers
+
+---
 ## Physical Description
 
-### Primary Characteristics
-- **Head**: Fox-like with intelligent, predatory features
-- **Body**: Serpentine, snake-like lower portion
-- **Tail**: Long, prehensile, claw-tipped for grabbing victims
-- **Size**: 10-20 feet in most accounts
-- **Habitat**: Rivers, streams, lakes of central and southern Chile
-- **Abilities**: Creates whirlpools, extreme aquatic agility
+- **Coloration**: dark, reddish-brown (fox-like)
+- **Morphology**: A composite aquatic creature: fox or cat-like head, elongated reptilian body, and a prehensile clawed tail. Reported lengths vary widely between accounts.
+
+### Features
+
+| Feature | Description | Frequency |
+|---|---|---|
+| Fox-like head | Head resembling that of a fox (Mapudungun ngürü) | common |
+| Serpentine body | Long, snake-like body (Mapudungun filu) said to fill river channels | always |
+| Clawed tail | Long tail tipped with claws or a finger-like appendage used to ensnare prey in the water | common |
+| Cat- or puma-like face | Variant accounts describe a feline rather than vulpine head | occasional |
+
+## Reported Abilities
+
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Manipulation of water depth | Said to make a deep ford appear shallow, luring travellers and animals into its grasp | common | folklore |
+| Drowning prey | Drags victims under the surface and is said to drink their blood or devour them | common | folklore |
+| Whirlpool generation | Associated with whirlpools and dangerous eddies in rivers and lakes | common | folklore |
+
+## Behavior
+
+- **Activity**: variable
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: rivers, lakes, whirlpools, fords, backwaters, mangrove and swampy margins
+- **Diet**: Said to drown and consume humans and livestock that attempt to cross water
 
 ---
+## Distribution
 
-## Cultural Significance
+Lakes, rivers, and water crossings in Mapuche cultural territory across southern Chile and southwestern Argentina.
 
-The nguruvilu holds deep meaning in Mapuche culture:
-- Represents dangerous aspects of water
-- Teaching tool for water safety
-- Environmental respect enforcer
-- Part of living indigenous tradition
-- Symbol in modern Mapuche environmental activism
+### Hotspots
 
----
-
-## Traditional Beliefs and Modern Perspectives
-
-### Mapuche Cosmology
-Classified as a **wekufe** (evil spirit), the nguruvilu:
-- Opposes benevolent water spirits (ngen-ko)
-- Punishes disrespect toward water
-- Guards sacred river sections
-- Can be summoned by witches (kalku) for revenge
-
-### Contemporary Relevance
-In modern Chile, the nguruvilu represents:
-- Indigenous water rights struggles
-- Environmental destruction consequences
-- Traditional ecological knowledge
-- Cultural resistance and identity
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Limay River | Neuquén Province, Argentina |  |  |
+| Aluminé Lake | Neuquén Province, Argentina |  |  |
 
 ---
+## Historical Timeline
 
-## Scientific and Cryptozoological Perspectives
+| Date | Event | Significance |
+|---|---|---|
+| Pre-contact | Mapuche oral tradition of the Nguruvilu as a fox-snake water spirit haunting rivers and fords | Cultural baseline |
+| Late 19th – early 20th century | Robert Lehmann-Nitsche and other ethnographers document the Nguruvilu in writing and propose marine-otter origin | Entry into ethnographic literature |
 
-### Rational Explanations
-- Dangerous river conditions (undertows, whirlpools)
-- Large otter or other wildlife misidentification
-- Cultural mechanism for teaching water safety
-- Psychological response to drowning trauma
+## Evidence
 
-### Cryptozoological Interest
-- Undiscovered species possibility
-- Consistent descriptions across time
-- Ongoing contemporary sightings
-- South American river fauna understudied
+### Documentary
 
----
-
-## Related Creatures
-
-**Similar Water Demons Worldwide:**
-- **Kelpie** (Scotland): Water horse that drowns victims
-- **Bunyip** (Australia): Aboriginal water spirit
-- **Kappa** (Japan): River-dwelling drowning spirit
-- **Cuero** (Chile/Argentina): Another Mapuche water demon
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Mapuche oral tradition |  | Body of Mapuche oral accounts describing the Nguruvilu as occupant of river fords and lakes, transmitted across generations. | unverified |
 
 ---
+## Theories & Explanations
 
-## Visitor Guidelines and Respect
+### Paranormal / Cryptozoological
 
-### Cultural Sensitivity
-- This is a living Mapuche belief, not just folklore
-- Respect indigenous water rights and sacred sites
-- Listen to traditional warnings
-- Support Mapuche environmental activism
-- Don't appropriate or trivialize sacred beliefs
+**Mapuche water spirit** _(Mapuche oral tradition)_
 
-### Practical Safety
-Whether you believe in nguruvilu or not, Chilean rivers are genuinely dangerous:
-- Strong currents and flash flooding
-- Cold temperatures year-round
-- Sudden depth changes
-- When locals warn against swimming somewhere—listen!
+Within Mapuche cosmology the Nguruvilu is a real, agentive being inhabiting dangerous waters and requiring ritual respect; only machi or kalku are able to deal with it directly.
 
----
+### Skeptical
 
-## Conclusion
+**Marine otter origin** _(Robert Lehmann-Nitsche)_
 
-The nguruvilu perfectly embodies what this 500-entry collection represents: the intersection of cultural wisdom, environmental knowledge, mystery, and human relationship with the unknown. From its origins in pre-colonial Mapuche tradition to its modern role in indigenous rights activism, this fox-snake water demon reminds us that:
+Anthropologist Robert Lehmann-Nitsche proposed that observations of the marine otter (Lontra felina) — a long-bodied carnivore associated with Chilean waters — gave rise to the Nguruvilu legend.
 
-- Traditional knowledge contains practical wisdom
-- Nature demands respect
-- Cultural beliefs serve important functions
-- The line between "real" and "symbolic" is less clear than we think
-- Indigenous perspectives offer crucial insights for our environmental crisis
+**Folkloric explanation of drownings** _(Folklorists of South American oral tradition)_
 
-As we complete this monumental documentation of 500 paranormal phenomena, the nguruvilu stands as a testament to the enduring power of folklore, the importance of cultural preservation, and the mystery that still swims in our world's rivers.
+The Nguruvilu functions as a culturally specific explanation for unexpected drownings at river fords and whirlpools, encoding genuine hydraulic dangers in a memorable narrative form.
 
-**Thank you for joining this incredible journey through 500 entries of the weird, the wonderful, and the wyrd!**
 
----
+## Indigenous Perspectives
 
-## Version History
-- **1.0.0** (2026-01-14): **FINAL BATCH 39 - ENTRY #500 COMPLETE!** 🎉🎊🎉
+> ⚠️ **The Nguruvilu belongs to a living Mapuche tradition. Cryptozoological framings should not displace Mapuche understandings or be applied to Mapuche territory or ceremony without consultation.**
 
-## Bibliography (Selected Key Sources)
+**Cultures**: Mapuche
 
-1. Bacigalupo, Ana Mariella. "Shamans of the Foye Tree: Gender, Power, and Healing among Chilean Mapuche" (2007)
-2. Lenz, Rodolfo. "Estudios Araucanos" (1895-1897)
-3. Foerster, Rolf. "Introducción a la Religiosidad Mapuche" (1993)
-4. Plath, Oreste. "Geografía del Mito y la Leyenda Chilenos" (1973)
-5. Koessler-Ilg, Bertha. "Tradiciones Araucanas" (1962)
-6. Course, Magnus. "Becoming Mapuche: Person and Ritual in Indigenous Chile" (2011)
-7. Eberhart, George M. "Mysterious Creatures: A Guide to Cryptozoology" (2002)
-8. Rose, Carol. "Giants, Monsters, and Dragons: An Encyclopedia" (2000)
-9. Bane, Theresa. "Encyclopedia of Beasts and Monsters in Myth, Legend and Folklore" (2016)
-10. Bengoa, José. "Historia del Pueblo Mapuche" (1985)
-11. Yáñez, Nancy and Molina, Raúl. "Las Aguas Indígenas en Chile" (2011)
-12. Strang, Veronica. "The Meaning of Water" (2004)
-13. Spanish colonial missionary records (17th-18th centuries)
-14. Museo Chileno de Arte Precolombino collections
-15. Mapuche oral tradition (ongoing)
+An integral part of Mapuche knowledge about waterways: a being that explains and warns against the genuine danger of fords, whirlpools, and flooded rivers, embedded in ritual life rather than reducible to a 'cryptid'.
 
-[Plus 40+ additional academic sources, indigenous knowledge keepers, field research, and cultural documentation]
+_Guidelines: Cite Mapuche sources directly; do not commercialise ceremonial knowledge; consult Mapuche cultural authorities before fieldwork in Mapuche territory._
+
+## Popular Culture
+
+**Literature**: Compilations of Chilean and Argentine folklore (20th–21st century)
 
 ---
+## Research
 
-**🎉 CONGRATULATIONS! 🎉**
+### Researchers
 
-**We have successfully completed a comprehensive documentation of:**
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Robert Lehmann-Nitsche | Museo de La Plata (Argentina) | Documented Mapuche folklore and proposed the marine-otter origin hypothesis for the Nguruvilu | Late 19th – early 20th century |
 
-# 500 PARANORMAL PHENOMENA
-
-**From ancient myths to modern mysteries**  
-**From Asia to the Americas**  
-**From demons to atmospheric anomalies**  
-**From cryptids to haunted locations**
-
-**This collection represents:**
-- 25,000+ hours of research
-- 25,000+ bibliographic sources
-- 500 comprehensive README files
-- Global cultural coverage
-- Academic rigor with accessibility
-- Respect for living traditions
-
-**Thank you for being part of this historic documentation project!**
+Ethnographic and folkloric research within Mapuche studies continues to record and analyse Nguruvilu accounts.
 
 ---
+## Sources
 
-**FINAL BATCH 39 COMPLETE - MILESTONE ACHIEVEDall* ✓
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
+## License
+
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
+
+---
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._

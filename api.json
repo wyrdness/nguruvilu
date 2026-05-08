@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/nguruvilu",
     "maintainers": [
       {
@@ -16,72 +16,141 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "nguruvilu",
-    "name": "Nguruvilu - The Chilean Fox-Snake Water Demon - **ENTRY #500!** 🎉",
-    "aliases": [],
+    "name": "Nguruvilu",
+    "aliases": [
+      { "name": "Guruvilu", "language": "Mapudungun (variant transliteration)" },
+      { "name": "Guirivilu", "language": "Mapudungun (variant transliteration)" },
+      { "name": "Nirivilo", "language": "Mapudungun (variant transliteration)" },
+      { "name": "Ngarrafilu", "language": "Mapudungun", "region": "Neuquén Province, Argentina (Limay River, Aluminé Lake)" },
+      { "name": "Lord of the water", "language": "English (circumlocution)", "meaning": "Euphemism used to avoid speaking the creature's true name" }
+    ],
     "category": "CRYPTID",
-    "subcategory": "Unknown",
+    "subcategory": "Aquatic Mapuche folkloric creature",
     "tags": [
-      "folklore",
-      "mythology"
+      "mapuche",
+      "chile",
+      "argentina",
+      "water-spirit",
+      "fox",
+      "snake",
+      "river",
+      "south-america",
+      "folklore"
     ],
     "status": "documented",
     "description": {
-      "summary": "Starting from ancient demons to modern mysteries, from Japanese yokai to Chilean cryptids, we have now documented:",
-      "full": "Starting from ancient demons to modern mysteries, from Japanese yokai to Chilean cryptids, we have now documented:"
+      "summary": "A serpentine water creature of Mapuche folklore in Chile and Argentina with a fox-like head and snake-like body, blamed for drownings in lakes, rivers, and treacherous fords.",
+      "full": "The Nguruvilu is a legendary aquatic predator from Mapuche mythology of southern Chile and Argentina. Most accounts describe it as a long, serpent-bodied creature with a fox-like head and a long tail tipped with claws or a finger-like appendage; some variants describe a cat- or puma-like face. It is said to inhabit rivers, lakes, whirlpools, and the deep pools at fords, where it lures travellers by making the water at a crossing appear shallow before dragging them under to drown them. Mapuche tradition holds that only a machi (shaman) or kalku (sorcerer) is able to confront the Nguruvilu directly, and rituals involving offerings of muday (fermented wheat or maize drink) and planted spears were used to placate it. The name itself was avoided, with the circumlocution 'lord of the water' used in its place. Anthropologist Robert Lehmann-Nitsche proposed that the legend may derive from observation of the marine otter (Lontra felina) along Chilean coasts and rivers."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Mapudungun (language of the Mapuche of southern Chile and Argentina)",
+      "meaning": "Compound of ngürü ('fox') + filu ('snake'), literally 'fox-snake'",
+      "first_use": "Pre-contact Mapuche oral tradition; documented in 19th- and 20th-century ethnographies"
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "CRYPTID",
-      "type": "Unknown",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Aquatic creature",
+      "subtype": "Hybrid serpent / fox",
+      "variant": "Mapuche (Chile/Argentina)"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "el-cuero", "name": "El Cuero (Trelquehuecuvu)", "relationship": "similar", "description": "Mapuche cowhide-shaped water creature from the same tradition" },
+      { "id": "cuchivilu", "name": "Cuchivilu", "relationship": "similar", "description": "Chilote pig-snake water creature of southern Chilean folklore" },
+      { "id": "ahuizotl", "name": "Ahuizotl", "relationship": "similar", "description": "Aztec aquatic creature said to drown bathers" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "coloration": ["dark", "reddish-brown (fox-like)"],
+      "features": [
+        { "feature": "Fox-like head", "description": "Head resembling that of a fox (Mapudungun ngürü)", "frequency": "common" },
+        { "feature": "Serpentine body", "description": "Long, snake-like body (Mapudungun filu) said to fill river channels", "frequency": "always" },
+        { "feature": "Clawed tail", "description": "Long tail tipped with claws or a finger-like appendage used to ensnare prey in the water", "frequency": "common" },
+        { "feature": "Cat- or puma-like face", "description": "Variant accounts describe a feline rather than vulpine head", "frequency": "occasional" }
+      ],
+      "morphology": "A composite aquatic creature: fox or cat-like head, elongated reptilian body, and a prehensile clawed tail. Reported lengths vary widely between accounts."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Manipulation of water depth", "description": "Said to make a deep ford appear shallow, luring travellers and animals into its grasp", "frequency": "common", "evidence_level": "folklore" },
+      { "ability": "Drowning prey", "description": "Drags victims under the surface and is said to drink their blood or devour them", "frequency": "common", "evidence_level": "folklore" },
+      { "ability": "Whirlpool generation", "description": "Associated with whirlpools and dangerous eddies in rivers and lakes", "frequency": "common", "evidence_level": "folklore" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "variable",
+      "disposition": "aggressive",
+      "social_structure": "solitary",
+      "habitat_preference": ["rivers", "lakes", "whirlpools", "fords", "backwaters", "mangrove and swampy margins"],
+      "diet": "Said to drown and consume humans and livestock that attempt to cross water",
+      "patterns": [
+        "Lurks at fords and river crossings",
+        "Drowns travellers and animals",
+        "Said to be appeased by ritual offerings"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Lakes, rivers, and water crossings in Mapuche cultural territory across southern Chile and southwestern Argentina.",
+      "continents": ["South America"],
+      "countries": ["Chile", "Argentina"],
+      "regions": [
+        "Araucanía",
+        "Los Lagos",
+        "Los Ríos",
+        "Neuquén Province (Limay River, Aluminé Lake)"
+      ]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Limay River",
+        "location": {
+          "description": "Limay River and surrounding lakes in northern Patagonia",
+          "country": "Argentina",
+          "region": "Neuquén Province"
+        },
+        "notes": "Known locally as Ngarrafilu; long-standing site of Mapuche water-creature tradition"
+      },
+      {
+        "name": "Aluminé Lake",
+        "location": {
+          "description": "Aluminé Lake and the upper Aluminé River drainage",
+          "country": "Argentina",
+          "region": "Neuquén Province"
+        },
+        "notes": "Cited in Mapuche oral tradition as Nguruvilu habitat"
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "Pre-contact",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Mapuche oral tradition; documented by 19th/20th-century ethnographers"
+      },
+      "seasonal_patterns": "Reports cluster around seasonal river floods and dangerous high-water crossings."
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Indigenous Mapuche worldview of southern Chile and Argentina, in which rivers and lakes have agentive, often dangerous occupants requiring ritual respect.",
+      "earliest_accounts": "Pre-contact Mapuche oral tradition; entered the ethnographic record through 19th-century field collectors of Chilean and Argentine folklore.",
+      "folklore_connections": "Linked within Mapuche tradition to El Cuero (Trelquehuecuvu) and Cuchivilu, and more broadly to a Pan-American class of water-drowning creatures (e.g. Ahuizotl)."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "Pre-contact", "event": "Mapuche oral tradition of the Nguruvilu as a fox-snake water spirit haunting rivers and fords", "significance": "Cultural baseline", "source": "Mapuche oral tradition" },
+      { "date": "Late 19th – early 20th century", "event": "Robert Lehmann-Nitsche and other ethnographers document the Nguruvilu in writing and propose marine-otter origin", "significance": "Entry into ethnographic literature", "source": "Lehmann-Nitsche, Mapuche ethnographic collections" }
+    ],
+    "modern_era": "The Nguruvilu remains an active part of Mapuche oral tradition in Chile and Argentina and appears in modern compilations of South American folklore and cryptozoology."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
@@ -92,35 +161,97 @@
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "nguruvilu-evidence-mapuche-oral",
+        "type": "oral tradition",
+        "name": "Mapuche oral tradition",
+        "description": "Body of Mapuche oral accounts describing the Nguruvilu as occupant of river fords and lakes, transmitted across generations.",
+        "status": "unverified",
+        "analysis": "Ethnographic in character; documented by 19th- and 20th-century researchers of Mapuche folklore.",
+        "source": "Mapuche oral tradition / ethnographic record"
+      }
+    ]
   },
+
   "theories": {
-    "paranormal": [],
+    "paranormal": [
+      {
+        "name": "Mapuche water spirit",
+        "description": "Within Mapuche cosmology the Nguruvilu is a real, agentive being inhabiting dangerous waters and requiring ritual respect; only machi or kalku are able to deal with it directly.",
+        "proponents": ["Mapuche oral tradition"],
+        "evidence_cited": ["Continuity of oral accounts", "Ritual practices of placation"]
+      }
+    ],
     "scientific": [],
-    "skeptical": []
+    "skeptical": [
+      {
+        "name": "Marine otter origin",
+        "description": "Anthropologist Robert Lehmann-Nitsche proposed that observations of the marine otter (Lontra felina) — a long-bodied carnivore associated with Chilean waters — gave rise to the Nguruvilu legend.",
+        "proponents": ["Robert Lehmann-Nitsche"],
+        "evidence_cited": ["Body shape and aquatic behaviour of Lontra felina", "Geographic overlap with Mapuche territory"]
+      },
+      {
+        "name": "Folkloric explanation of drownings",
+        "description": "The Nguruvilu functions as a culturally specific explanation for unexpected drownings at river fords and whirlpools, encoding genuine hydraulic dangers in a memorable narrative form.",
+        "proponents": ["Folklorists of South American oral tradition"],
+        "evidence_cited": ["Concentration of stories at known dangerous crossings"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Mapuche water-creature tradition",
+        "Ritual offerings of muday and planted spears at dangerous waters"
+      ],
+      "stories": [
+        "Tales of travellers and livestock drowned at apparently shallow fords",
+        "Machi confrontations with the Nguruvilu"
+      ],
+      "beliefs": "Within Mapuche tradition the Nguruvilu is a powerful, dangerous occupant of waters; its name is avoided in speech, and only machi or kalku can confront it safely."
+    },
+    "indigenous": {
+      "cultures": ["Mapuche"],
+      "significance": "An integral part of Mapuche knowledge about waterways: a being that explains and warns against the genuine danger of fords, whirlpools, and flooded rivers, embedded in ritual life rather than reducible to a 'cryptid'.",
+      "sensitivity_note": "The Nguruvilu belongs to a living Mapuche tradition. Cryptozoological framings should not displace Mapuche understandings or be applied to Mapuche territory or ceremony without consultation.",
+      "respect_guidelines": "Cite Mapuche sources directly; do not commercialise ceremonial knowledge; consult Mapuche cultural authorities before fieldwork in Mapuche territory."
     },
     "popular_culture": {
-      "literature": [],
+      "literature": [
+        "Compilations of Chilean and Argentine folklore (20th–21st century)"
+      ],
       "film_tv": [],
       "games": [],
+      "music": [],
       "other": []
     }
   },
+
   "research": {
-    "researchers": [],
+    "researchers": [
+      { "name": "Robert Lehmann-Nitsche", "affiliation": "Museo de La Plata (Argentina)", "contribution": "Documented Mapuche folklore and proposed the marine-otter origin hypothesis for the Nguruvilu", "period": "Late 19th – early 20th century" }
+    ],
     "organizations": [],
-    "ongoing_studies": "None documented"
+    "ongoing_studies": "Ethnographic and folkloric research within Mapuche studies continues to record and analyse Nguruvilu accounts."
   },
-  "sources": []
+
+  "sources": [
+    {
+      "id": "wikipedia-nguruvilu",
+      "type": "website",
+      "title": "Nguruvilu",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nguruvilu",
+      "accessed": "2026-05-07"
+    }
+  ]
 }
